@@ -1,0 +1,372 @@
+Create a professional personal portfolio website for me.
+
+My name is Khaeran and I am an Information Technology student.
+
+I want a modern, clean, premium personal portfolio inspired by modern developer portfolios, but with completely original design, content, branding, and colors.
+
+The website must be a static website that can later be deployed to GitHub Pages.
+
+TECH STACK:
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- No backend
+- No database
+- No React
+- No PHP
+
+VISUAL IDENTITY:
+Use a unique blue and red visual identity.
+
+Colors:
+- Deep Navy: #0B1220
+- Royal Blue: #2563EB
+- Light Blue: #60A5FA
+- Accent Red: #EF4444
+- White: #FFFFFF
+- Soft Gray: #F8FAFC
+- Secondary Gray: #64748B
+
+Use blue as the main accent.
+Use red only as a secondary accent for small highlights, buttons, badges, lines, and hover details.
+
+Do NOT make the website predominantly red.
+Do NOT copy the colors or visual identity of any reference website.
+
+DESIGN STYLE:
+- Modern
+- Professional
+- Clean
+- Minimal
+- Premium
+- Technology-oriented
+- Strong typography
+- Generous whitespace
+- Subtle animations
+- Responsive
+- Elegant blue/red accents
+
+NAVIGATION:
+
+Create a sticky navigation bar.
+
+Logo:
+KHAERAN
+
+Navigation:
+Home
+About
+Projects
+Skills
+Experience
+Certificates
+Contact
+
+On mobile, use a hamburger menu.
+
+HERO SECTION:
+
+Create a visually impressive hero section.
+
+Small text:
+"Hello, I'm"
+
+Large heading:
+"Khaeran."
+
+Title:
+"Information Technology Student"
+
+Description:
+"Exploring technology through software development, artificial intelligence, and research."
+
+Buttons:
+"View My Projects"
+"Download CV"
+
+The View My Projects button should scroll to Projects.
+
+The Download CV button should link to:
+assets/Khaeran-CV.pdf
+
+Use the uploaded portrait image as the profile image in the hero section.
+
+Do not alter the person's face.
+Do not generate a different person.
+Keep the uploaded image natural and professional.
+
+ABOUT SECTION:
+
+Title:
+"About Me"
+
+Headline:
+"Turning curiosity into technology."
+
+Description:
+
+"I’m an Information Technology student interested in software development, artificial intelligence, and technology research. I enjoy turning ideas into practical digital solutions while continuously learning and exploring new technologies."
+
+Create small highlight statistics:
+
+"IT Student"
+"5+ Projects"
+"AI & Research"
+"Continuous Learner"
+
+Do not invent unrealistic achievements.
+
+WHAT I DO:
+
+Create four cards:
+
+Web Development
+"Building responsive and interactive web applications."
+
+Artificial Intelligence
+"Exploring machine learning, computer vision, and intelligent systems."
+
+Technology Research
+"Exploring research-oriented projects involving emerging technologies and data."
+
+Software Development
+"Developing practical software solutions through structured programming and problem solving."
+
+Use simple modern icons.
+
+FEATURED PROJECTS:
+
+Create a premium project showcase.
+
+Project 1:
+
+Kedai Rakjat
+
+Category:
+Web Development
+
+Description:
+"A modern e-commerce website concept designed to provide a simple and convenient online shopping experience."
+
+Technologies:
+HTML
+CSS
+JavaScript
+
+Project 2:
+
+TVS Sparepart Management System
+
+Category:
+Information System
+
+Description:
+"A web-based sparepart management system designed to monitor inventory, incoming goods, outgoing goods, suppliers, and stock information."
+
+Technologies:
+PHP
+MySQL
+Bootstrap
+
+Project 3:
+
+AI Sign Language Recognition
+
+Category:
+Artificial Intelligence
+
+Description:
+"A computer vision project for recognizing Indonesian sign language using image classification and deep learning."
+
+Technologies:
+Python
+TensorFlow
+CNN
+
+Project 4:
+
+EEG-Based Brain Computer Interface
+
+Category:
+AI Research
+
+Description:
+"A research project exploring EEG-based classification of motor imagery, emotion, and focus using deep learning."
+
+Technologies:
+Python
+Deep Learning
+EEG
+BCI
+
+Make the project cards visually attractive.
+
+Use image placeholders that can easily be replaced later.
+
+Add:
+View Project
+GitHub
+
+SKILLS:
+
+Title:
+"Technical Skills"
+
+Create categories:
+
+Programming:
+Python
+Java
+JavaScript
+PHP
+HTML
+CSS
+
+Web Development:
+HTML
+CSS
+JavaScript
+Bootstrap
+
+Database:
+MySQL
+
+Artificial Intelligence:
+Machine Learning
+Deep Learning
+Computer Vision
+TensorFlow
+
+Tools:
+Git
+GitHub
+VS Code
+XAMPP
+
+Research:
+EEG
+Brain Computer Interface
+Data Analysis
+
+Do NOT use percentage skill bars.
+
+Use clean skill badges/cards.
+
+EXPERIENCE & ACTIVITIES:
+
+Because Khaeran is still a student, do NOT call this Work Experience.
+
+Use:
+
+"Experience & Activities"
+
+Create a clean vertical timeline:
+
+Academic Projects
+Information Technology
+2024–Present
+
+AI & Research Projects
+Artificial Intelligence / EEG / BCI
+2025–Present
+
+Technology Development
+Web Development & Software Projects
+2024–Present
+
+Do not invent companies or employment.
+
+CERTIFICATES:
+
+Create a responsive certificate gallery.
+
+Each card should contain:
+- Certificate image placeholder
+- Certificate title
+- Issuer
+- Year
+- View Certificate
+
+Create at least four placeholders that can easily be replaced later.
+
+CONTACT:
+
+Create a strong final section.
+
+Headline:
+"Let's build something meaningful."
+
+Description:
+"I'm always open to learning, collaborating, and exploring new opportunities in technology."
+
+Social links:
+GitHub
+LinkedIn
+Email
+
+Use placeholder URLs that are easy to edit later.
+
+FOOTER:
+
+"Khaeran"
+"Information Technology Student"
+
+"© 2026 Khaeran. Built with HTML, CSS & JavaScript."
+
+ANIMATIONS:
+
+Add subtle:
+- Hero entrance animation
+- Scroll reveal
+- Project card hover
+- Button hover
+- Navigation active state
+- Smooth scrolling
+
+Use IntersectionObserver for scroll reveal.
+
+Do not make animations excessive.
+
+RESPONSIVE DESIGN:
+
+Make the website excellent on:
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+On mobile:
+- Hero becomes vertical
+- Navigation becomes hamburger menu
+- Project cards become single column
+- Skills become responsive
+- Buttons remain usable
+- Typography scales appropriately
+
+CODE STRUCTURE:
+
+Create:
+
+index.html
+style.css
+script.js
+
+assets/
+    images/
+    certificates/
+
+Keep HTML, CSS and JavaScript separate.
+
+Make the website work without a backend.
+
+Make sure there are no console errors.
+
+IMPORTANT:
+
+The final website should feel like a real personal portfolio for an Information Technology student.
+
+It should NOT look like a generic AI-generated portfolio.
+
+It should have its own identity based on navy blue, royal blue, light blue, white, and subtle red accents.
+
+Use the uploaded portrait as the profile photo.

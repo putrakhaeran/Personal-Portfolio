@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Khaeran — Portfolio"
+description = "A personal portfolio for Khaeran, an Information Technology student, showcasing projects, technical interests, activities, certificates, and contact links."
+version = "1.0.0"
+id = "artifacts/khaeran-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19748
+
+[services.development]
+run = "pnpm --filter @workspace/khaeran-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/khaeran-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/khaeran-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19748"
+BASE_PATH = "/"
